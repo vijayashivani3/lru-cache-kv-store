@@ -35,7 +35,7 @@ Windows).
 g++ main.cpp -o main.exe -mconsole
 ./main.exe
 
-Example session:
+## Example session:
 
 
 SET apple 5
