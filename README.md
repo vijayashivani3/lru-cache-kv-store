@@ -39,16 +39,27 @@ Example session:
 
 
 SET apple 5
+
 OK
+
 GET apple
+
 5
+
 SET banana 10
+
 OK
+
 SET cherry 15
+
 OK
+
 SET date 20
+
 OK
+
 GET banana
+
 (not found)
 
 ## Running the tests
